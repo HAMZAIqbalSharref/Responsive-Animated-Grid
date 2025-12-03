@@ -1,4 +1,4 @@
-# Animation Test 1
+# Responsive Grid Animation 
 
 This project demonstrates a responsive animated layout using HTML and CSS. It features:
 
